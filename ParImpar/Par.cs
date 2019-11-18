@@ -16,7 +16,7 @@ namespace ParImpar
                 valor = Convert.ToDouble(value);
             }
         }
-        public string envia
+        public string envia//
         {
             get
             {
